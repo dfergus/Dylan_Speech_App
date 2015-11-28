@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ProjectTest2_nov7\ProjectTest_nov14.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectTest2_nov7\Screens\MainActivity.cs">
+    <Files>
+      <File FileName="ProjectTest2_nov7\Screens\MainActivity.cs" Line="185" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProjectTest__nov14 AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

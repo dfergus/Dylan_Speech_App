@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/PlayMa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play Ma (Mother)" />
+    <ImageView
+        android:src="@drawable/Mother_Male_1"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/imageView1"
+        android:padding="2dip" />
+    <ImageView
+        android:src="@drawable/Blank"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/imageView1"
+        android:padding="2dip" />
+    <TableLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout1">
+        <TableRow
+            android:id="@+id/tableRow1">
+            <Button
+                android:text="Record"
+                android:layout_width="200dp"
+                android:id="@+id/Record" />
+            <Button
+                android:text="Stop"
+                android:layout_width="200dp"
+                android:enabled="false"
+                android:id="@+id/Stop" />
+        </TableRow>
+    </TableLayout>
+    <Button
+        android:text="Play Back"
+        android:enabled="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PlayBack" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/space1" />
+    <Button
+        android:text="Back to Mandarin Words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/BackToMandarin" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+ProjectTest2_nov7.Screens.MainActivity, ProjectTest2_nov7;md5c6d2d2aa476860a4f5c996a44c1b556e.MainActivity
+ProjectTest2_nov7.Screens.MainActivity, ProjectTest2_nov7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c6d2d2aa476860a4f5c996a44c1b556e.MainActivity
+ProjectTest2_nov7.Screens.MainActivity;md5c6d2d2aa476860a4f5c996a44c1b556e.MainActivity
+projecttest2_nov7.screens.MainActivity;md5c6d2d2aa476860a4f5c996a44c1b556e.MainActivity

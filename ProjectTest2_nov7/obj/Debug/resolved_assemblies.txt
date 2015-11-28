@@ -1,0 +1,13 @@
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\ProjectTest2_nov7.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Core.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Data.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Numerics.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\System.Transactions.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\Dylan\Documents\Projects\ProjectTest3_Nov14\ProjectTest2_nov7\obj\Debug\assemblies\Mono.Security.dll

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ProjectTest2_nov7\ProjectTest_nov14.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5A1T8C22" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ProjectTest2_nov7\Resources\AboutResources.txt" Line="1" Column="1" />
+      <File FileName="ProjectTest2_nov7\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="ProjectTest2_nov7\Resources\values\Strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProjectTest__nov14 AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
